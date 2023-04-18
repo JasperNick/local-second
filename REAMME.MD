@@ -1,2 +1,3 @@
-This is some text README
-This is how to 
+This is text README.
+
+Here is some more text. 
